@@ -11,7 +11,7 @@ Software currently supports Dimmer , Relay , and Dual Relay versions of the swit
 ![image](https://user-images.githubusercontent.com/11134430/139081621-dfff785e-005d-4824-96eb-8abf697a2315.png)
 
 
-Here is a playlist of all my version so far.
+Here is a playlist of all my versions so far.
 https://youtube.com/playlist?list=PL5GnlzXbSNxN_0DaoBrPkn7FY7Wj2uzeJ
 
 Web pages and configuration files are stored in SPIFFS  you will need the "ESP8266 Sketch Data Upload" plugin found at https://github.com/esp8266/arduino-esp8266fs-plugin to upload the Data files.
