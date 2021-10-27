@@ -5,7 +5,7 @@ Of couse the code will work on any esp8266 or esp8255 but it will need at least 
 
 I drew on many sources when I started this project I apologize for not keeping better track to give credit, I know one of many was: https://www.instructables.com/Arduino-controlled-light-dimmer-The-circuit/
 
-Warning!! working with mains power is dangerous do not build this unless you really know what are doing.  Always Disconnect power before working on it.  This a real risk a Electrocution! As well a fire.  
+Warning!! working with mains power is dangerous do not build this unless you really know what are doing.  Always Disconnect power before working on it.  There a real risk a Electrocution! As well a fire. Build at your own risk. 
 
 Software currently supports Dimmer , Relay , and Dual Relay versions of the switch. Switches automaticly discover each other with MDNS to create a page of all switches.
 ![image](https://user-images.githubusercontent.com/11134430/139081621-dfff785e-005d-4824-96eb-8abf697a2315.png)
