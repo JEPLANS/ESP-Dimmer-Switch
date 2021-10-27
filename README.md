@@ -22,7 +22,7 @@ On the ESP8285 there is 1M of Flash , below are the settings I have been using f
 
 There is a file, wifi.cfg you should update it with your wifi settings prior to upload. 
 
-The switch are remotely triggerable with any http cliet
+The switch are remotely trigger-able with any http client
 Sample On at 50%
  http://10.16.10.172/Activate?st2=1&st3=50
 
@@ -52,3 +52,4 @@ Switch TYPE
 Switch Mode
 1=No Dim
 2=Dim
+
