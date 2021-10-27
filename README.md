@@ -22,5 +22,7 @@ On the ESP8285 there is 1M of Flash , below are the settings I have been using f
 
 There is a file, wifi.cfg you should update it with your wifi settings prior to upload. 
 
-The switch are remotely trigger-able with any http client see notes.txt in data folder
+The switches are remotely trigger-able with any http client see notes.txt in data folder
+
+Macro functionality is still under development.  
 
