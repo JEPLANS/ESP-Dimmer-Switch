@@ -8,6 +8,8 @@ I drew on many sources when I started this project I apologize for not keeping b
 Warning!! working with mains power is dangerous do not build this unless you really know what are doing.  Always Disconnect power before working on it.  This a real risk a Electrocution! As well a fire.  
 
 Software currently supports Dimmer , Relay , and Dual Relay versions of the switch. Switches automaticly discover each other with MDNS to create a page of all switches.
+![image](https://user-images.githubusercontent.com/11134430/139081621-dfff785e-005d-4824-96eb-8abf697a2315.png)
+
 
 Here is a playlist of all my version so far.
 https://youtube.com/playlist?list=PL5GnlzXbSNxN_0DaoBrPkn7FY7Wj2uzeJ
