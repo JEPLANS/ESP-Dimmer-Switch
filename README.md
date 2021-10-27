@@ -24,7 +24,9 @@ There is a file, wifi.cfg you should update it with your wifi settings prior to 
 
 The switch are remotely trigger-able with any http client.
  Sample On at 50%
-  http://10.16.10.172/Activate?st2=1&st3=50
+The switch are remotely trigger-able with any http client
+Sample On at 50%
+ http://10.16.10.172/Activate?st2=1&st3=50
 
 Sample off
  http://10.16.10.172/Activate?st2=0
