@@ -22,36 +22,5 @@ On the ESP8285 there is 1M of Flash , below are the settings I have been using f
 
 There is a file, wifi.cfg you should update it with your wifi settings prior to upload. 
 
-The switch are remotely trigger-able with any http client.
- Sample On at 50%
-The switch are remotely trigger-able with any http client
-Sample On at 50%
- http://10.16.10.172/Activate?st2=1&st3=50
-
-Sample off
- http://10.16.10.172/Activate?st2=0
-
-On for 30secs
- http://10.16.10.172/Activate?st2=4&TA=30
-
-
-st2=0  off               :none
-st2=1 on                 :st3=Dimming 
-st2=2 Strobe/Emergency   :none
-st2=3 Toggle state       :st3=Dimming 
-st2=4 Timed Activation   :TA=Secs
-
-Macros
-File /test1.mcr (list of above commands)
- http://10.16.10.172/Macro?MCM=test1
-
-
-Switch TYPE
-0=(on/off) pins(0/2) toggle  ESP8266-1
-1=pins 14(trac),4(zero cross) 13(button) ESP-M3 8285
-3=Relay(not implemented yet)
-
-Switch Mode
-1=No Dim
-2=Dim
+The switch are remotely trigger-able with any http client see notes.txt in data folder
 
