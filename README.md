@@ -18,5 +18,5 @@ On the ESP8285 there is 1M of Flash , below are the settings I have been using f
 
 ![image](https://user-images.githubusercontent.com/11134430/139057101-ac52f8e7-b0ad-4301-b314-d7ab33135125.png)
 
-There is a file wifi.cfg you should update it with your wifi settings prior to upload. 
+There is a file, wifi.cfg you should update it with your wifi settings prior to upload. 
 
